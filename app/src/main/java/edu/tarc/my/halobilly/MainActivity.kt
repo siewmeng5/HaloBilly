@@ -16,7 +16,5 @@ class MainActivity : AppCompatActivity() {
         button.setOnClickListener{
             text.text = "billy"
         }
-
-        testing
     }
 }
